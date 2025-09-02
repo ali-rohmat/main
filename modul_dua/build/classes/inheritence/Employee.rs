@@ -1,0 +1,4 @@
+inheritence.SeniorProgrammer
+inheritence.Manager
+inheritence.Employee
+inheritence.Programmer
